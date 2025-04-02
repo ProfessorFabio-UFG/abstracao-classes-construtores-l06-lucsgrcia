@@ -1,5 +1,3 @@
-package At2;
-
 public class Produto {
 
     int codigo;
